@@ -1,6 +1,6 @@
 import style from './App.module.css';
-import Navbar from "./Navbar.js";
-import Main from "./Main.js";
+import Navbar from "./components/Navbar.js";
+import Main from "./components/Main.js";
 
 function App() {
   return (
