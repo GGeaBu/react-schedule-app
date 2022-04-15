@@ -1,0 +1,21 @@
+.navbar {
+    background-color: aquamarine;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+    height: 100vh;
+    margin: 0;
+}
+
+.logo_img {
+    width: 150px;
+    margin-top: 24px;
+}
+
+.user_img {
+    width: 40px;
+    border-radius: 50%;
+}
